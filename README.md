@@ -30,3 +30,4 @@ Ana Rita-presente
 Ana Rita fez alterações
 
 Simão Barroso - presente
+Afonso Marques -presente
