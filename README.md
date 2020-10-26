@@ -3,3 +3,4 @@ chamada de pl5
 
 Rafael Correia - presente
 Miguel Braga - presente
+CLáudio Bessa - presente
