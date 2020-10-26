@@ -14,3 +14,4 @@ Guilherme Varela - presente
 CLáudio Bessa - presente
 
 Paulo Ferreira - presente
+João Gonçalves - presente
