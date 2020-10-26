@@ -20,3 +20,5 @@ CLáudio Bessa - presente
 
 Paulo Ferreira - presente
 João Gonçalves - presente
+
+Ana Rita-presente
