@@ -20,4 +20,12 @@ CLáudio Bessa - presente
 Eduardo Pereira - presente
 Paulo Ferreira - presente
 João Gonçalves - presente
+<<<<<<< HEAD
 João Torres - presente
+=======
+
+<<<<<<< HEAD
+Ana Rita-presente
+
+Ana Rita fez alterações
+>>>>>>> 363fe0454299560d4987cf62b62cc3f9ca461d67
