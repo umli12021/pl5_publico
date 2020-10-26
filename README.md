@@ -28,4 +28,5 @@ João Pereira - presente
 Ana Rita-presente
 
 Ana Rita fez alterações
->>>>>>> 363fe0454299560d4987cf62b62cc3f9ca461d67
+
+Simão Barroso - presente
