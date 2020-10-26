@@ -4,7 +4,7 @@ chamada de pl5
 
 Emanuel Silva -presente
 Antonio afonso -presente
-
+João Torres - Presente
 Rafael Correia - presente
 
 Gonçalo Lemos - presente
