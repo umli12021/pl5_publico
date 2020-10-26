@@ -24,4 +24,4 @@ João Gonçalves - presente
 <<<<<<< HEAD
 Ana Rita-presente
 
-
+Ana Rita fez alterações
