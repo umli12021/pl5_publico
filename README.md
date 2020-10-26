@@ -2,7 +2,7 @@
 chamada de pl5
 
 
-Estou no topo
+Rafael Correia- presente (estou no topo)
 
 Emanuel Silva -presente
 
@@ -20,11 +20,11 @@ CLáudio Bessa - presente
 Eduardo Pereira - presente
 Paulo Ferreira - presente
 João Gonçalves - presente
-<<<<<<< HEAD
+
 João Torres - presente
-=======
+
 João Pereira - presente
-<<<<<<< HEAD
+
 Ana Rita-presente
 
 Ana Rita fez alterações
