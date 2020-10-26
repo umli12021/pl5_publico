@@ -2,7 +2,7 @@
 chamada de pl5
 
 
-Antonio afonso
+Antonio afonso -presente
 
 Rafael Correia - presente
 Miguel Braga - presente
