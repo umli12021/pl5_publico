@@ -23,7 +23,7 @@ João Gonçalves - presente
 <<<<<<< HEAD
 João Torres - presente
 =======
-
+João Pereira - presente
 <<<<<<< HEAD
 Ana Rita-presente
 
