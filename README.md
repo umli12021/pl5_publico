@@ -9,3 +9,4 @@ Miguel Braga - presente
 Guilherme Varela - presente
 CLáudio Bessa - presente
 
+Paulo Ferreira - presente
