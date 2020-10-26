@@ -31,3 +31,4 @@ Ana Rita fez alterações
 
 Simão Barroso - presente
 Afonso Marques -presente
+Bianca Vale - presente
