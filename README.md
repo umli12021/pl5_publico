@@ -17,8 +17,11 @@ Miguel Raposo - presente
 Miguel Braga - presente
 Guilherme Varela - presente
 CLáudio Bessa - presente
-
+Eduardo Pereira - presente
 Paulo Ferreira - presente
 João Gonçalves - presente
 
+<<<<<<< HEAD
 Ana Rita-presente
+
+
