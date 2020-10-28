@@ -1,4 +1,5 @@
 
+Rafael Correia - presente
 
 Gonçalo Lemos - presente
 
@@ -14,7 +15,7 @@ João Torres - presente
 
 João Pereira - presente
 
-Ana Rita-presente
+Ana Rita-presente 
 
 Ana Rita fez alterações
 
