@@ -24,3 +24,5 @@ Afonso Marques -presente
 Bianca Vale - presente
 Presente-Miguel Senra
 Pedro Martins - presente
+
+Afonso Amorim - presente
